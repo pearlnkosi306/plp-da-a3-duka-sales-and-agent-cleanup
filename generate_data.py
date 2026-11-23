@@ -39,3 +39,4 @@ sales.to_csv("duka_sales.csv", index=False)
 
 # ---------------- Part 2: Agent network (seed 44) ----------------
 # PASTE THE COURSE AGENT GENERATOR HERE, UNCHANGED.
+
